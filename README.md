@@ -5,7 +5,7 @@
 
 ---
 
-**DevJobs** es una réplica del proyecto original desarrollado en el bootcamp **JSCamp.dev**, creada íntegramente por mí con fines de aprendizaje y práctica de tecnologías web modernas.  
+**DevJobs** es una réplica del proyecto original desarrollado en el bootcamp **JSCamp.dev**, apoyándome en el proyecto original con fines de aprendizaje y práctica personal.
 
 > **Nota:** No se trata de una copia exacta, sino de una **reimplementación personal** realizada desde cero para afianzar conocimientos.
 
