@@ -1,7 +1,7 @@
 #  DevJobs  
 *(Proyecto en desarrollo)*  
 
-> **Repositorio creado como parte del Bootcamp [JSCamp](https://jscamp.dev) de [Midudev](https://github.com/midudev).**
+**Repositorio creado como parte del Bootcamp [JSCamp](https://jscamp.dev) de [Midudev](https://github.com/midudev).**
 
 ---
 
