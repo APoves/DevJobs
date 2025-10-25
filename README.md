@@ -13,5 +13,5 @@
 
 ## 🔗 Repositorios relacionados
 
-- 📦 Proyecto original de Midudev: [github.com/midudev/jscamp](https://github.com/midudev/jscamp)  
-- 💻 Esta réplica: [github.com/APoves/DevJobs](https://github.com/APoves/DevJobs)
+- Proyecto original de Midudev: [github.com/midudev/jscamp](https://github.com/midudev/jscamp)  
+- Esta réplica: [github.com/APoves/DevJobs](https://github.com/APoves/DevJobs)
